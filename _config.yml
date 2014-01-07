@@ -2,4 +2,4 @@ name: Your New Jekyll Site
 markdown: redcarpet
 pygments: true
 
-baseurl: http://jamox.github.io/ballin-octo-avenger/
+baseurl: ballin-octo-avenger/
