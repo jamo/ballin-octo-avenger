@@ -1,0 +1,37 @@
+p. *Deadline on palautuksille 1-5 aina klo 22:00*, esim. ensimmäinen deadline on 16.12. klo 22:00
+
+p. Ensimmäisessä deadline suoritetaan tekemällä vaadittavat tehtävät ja rekisteröitymällä "labtooliin":http://tktl-labtool.herokuapp.com/register. Versionhallinnassa käytetään tällä kurssilla Gittiä, tarkemmin Github-palvelua. Ensimmäisen deadlinen jälkeen palautukseksi katsotaan viimeisin ennen deadlinea suoritettu Github-pushaus. Erillisiä sähköpostipalautuksia tai vastaavia ei hyväksytä.
+
+p. Jokaisen palautuksen yhteydessä ohjelma tulee voida ajaa ilman virheilmoituksia, vaikka se ei tekisi vielä mitään. Toiminnallisuutta ja käyttöliittymää toteutetaan pikkuhiljaa. Lisäksi dokumentaation  on oltava ajantasalla ja siihen asti tehtyjen testien mentävä läpi toteutusvaiheen mukaisesti. Koodin on oltava selkeää, luettavaa ja helposti ylläpidettävää. Enemmän tästä sivulla "koodin laatuvaatimukset":https://github.com/javaLabra/Joululabra-2013/wiki/Koodin-laatuvaatimukset. Huomaa, että dokumentaatiot on oltava .pdf tai .txt-muodossa. Kuvien kohdalla voit käyttää myös .jpg tai .png.
+
+* Deadlinesta saa max. 3 pistettä
+* Maksimipisteet vaatimuksien täyttämisestä siis 15
+* Myöhästymisestä pisteet on 0
+** Seuraavaan deadlineen on oltava kyseinen deadline ja myöhästynyt deadline
+* Käy tasaisin ajoin keskustelemassa edistymisestäsi, saat samalla palautteen!
+* *Lisäaikaa saa hyvällä syyllä, etukäteen pyytämällä*
+
+HUOM Generoikaa jokaista palautusta varten Pit- ja Cobertura-dokumentit. Siirtäkää nämä dokumentaatio-kansion alle omiin kansioihinsa (ettei tule duplikaatti index.html:iä).
+
+h3. Deadline I, maanantai 16.12.
+* "Deadline 1 vaatimukset":https://github.com/javaLabra/Joululabra-2013/wiki/Deadline-1
+
+h3. Deadline II, keskiviikko 18.12.
+* "Deadline 2 vaatimukset":https://github.com/javaLabra/Joululabra-2013/wiki/Deadline-2
+
+h3. Deadline III, sunnuntai 22.12.
+* "Deadline 3 vaatimukset":https://github.com/javaLabra/Joululabra-2013/wiki/Deadline-3
+
+h3. Deadline IV, torstai 2.1.
+* "Deadline 4 vaatimukset":https://github.com/javaLabra/Joululabra-2013/wiki/Deadline-4
+
+h3. Deadline Katselmointi, sunnuntai 5.1.
+* Deadline "koodikatselmoinnille":https://github.com/javaLabra/Joululabra-2013/wiki/Koodikatselmointi
+
+h3. Deadline V, keskiviikko 8.1.
+* "Deadline 5 vaatimukset":https://github.com/javaLabra/Joululabra-2013/wiki/Deadline-5
+
+h3. Deadline VI, palautus, perjantai 10.1.
+
+* "Lopullisen palautuksen vaatimukset":https://github.com/javaLabra/Joululabra-2013/wiki/Deadline-6,-lopullinen-palautus
+"*Muistilista lopullista palautusta varten*":https://github.com/javaLabra/Joululabra-2013/wiki/Muistilista
